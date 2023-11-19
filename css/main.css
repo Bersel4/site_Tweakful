@@ -8,4 +8,5 @@
 .container {
     font-family: Inter;
     max-width: 1440px;
+    margin: 0 auto;
 }
